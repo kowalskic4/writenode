@@ -1,4 +1,3 @@
-import { useCallback, useState } from 'react';
 import { Header, Footer } from './components';
 
 import './App.css';
